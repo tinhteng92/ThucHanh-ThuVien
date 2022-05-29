@@ -1,17 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="440e2f67-2e05-4a57-b8ef-58d643252dda" name="Changes" comment="" />
+    <list default="true" id="440e2f67-2e05-4a57-b8ef-58d643252dda" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThucHanh1/HoSoHocSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThucHanh1/HoSoHocSinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThucHanh1/HocSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThucHanh1/HocSinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThucHanh1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThucHanh1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThucHanh1/QLHocSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThucHanh1/QLHocSinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThucHanh2/CallCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThucHanh2/CallCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThucHanh2/LibaryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThucHanh2/LibaryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThucHanh2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThucHanh2/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29junclV5v7xBCxticGUe5KbXFV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/CodeGym/Hoc-lieu-Java/DemoCode/Modul-2/lesson11-baitapQLHotel",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThucHanh1.Main" />
+      <module name="ThucHanh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThucHanh1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="440e2f67-2e05-4a57-b8ef-58d643252dda" name="Changes" comment="" />
+      <created>1653638986873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653638986873</updated>
+      <workItem from="1653638988279" duration="7491000" />
+      <workItem from="1653805467361" duration="9436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>

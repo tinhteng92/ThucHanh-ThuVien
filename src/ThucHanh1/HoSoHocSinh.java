@@ -1,4 +1,4 @@
-import ThucHanh1.HocSinh;
+package ThucHanh1;
 
 import java.util.Date;
 
@@ -41,7 +41,7 @@ public class HoSoHocSinh extends HocSinh {
 
     @Override
     public String toString() {
-        return "HoSoHocSinh{" +
+        return "ThucHanh1.HoSoHocSinh{" +
                 "lop='" + lop + '\'' +
                 ", khoaHoc='" + khoaHoc + '\'' +
                 ", kyHoc='" + kyHoc + '\'' +
